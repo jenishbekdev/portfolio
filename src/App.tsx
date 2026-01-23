@@ -1,10 +1,11 @@
+import AppRouter from "./router/Index"
 
 
 const App = () => {
   return (
     <div>
-      привет мир
-    </div>
+    <AppRouter/>
+     </div>
   )
 }
 
